@@ -14,7 +14,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By SpeedX >update.speedx
+echo This Script Was Made By PranithVarma >update.speedx
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
