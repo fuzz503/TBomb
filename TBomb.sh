@@ -2,7 +2,7 @@
 clear
 echo -e "\e[4;31m PranithVarma !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+echo -e "\e[1;32m FBomb \e[0m"
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.speedx ]];then
@@ -67,7 +67,7 @@ rm update.speedx >> temp
 rm temp
 chmod +x TBomb.sh
 fi
-echo -e "\e[1;32m TBomb Will Restart Now..."
+echo -e "\e[1;32m FBomb Will Restart Now..."
 echo -e "\e[1;32m All The Required Packages Will Be Installed..."
 echo -e "\e[1;34m Press Enter To Proceed To Restart..."
 read a6
