@@ -243,7 +243,7 @@ def banner():
    ▒▒▒██▒▒▒ ██▒▒██                ██
       ██    ██  ██        ██   ██ ██
       ██    █████▒  ████  ███ ███ █████
-      ██    ██▒▒██ ██  ██ ██▒█▒██ ██▒▒██
+      ███ ██   ██▒▒██ ██  ██ ██▒█▒██ ██▒▒██
       ██    ██  ██ ██  ██ ██ ▒ ██ ██  ██
       ██    █████▒ ▒████▒ ██   ██ █████▒
       ▒▒    ▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒
@@ -289,7 +289,7 @@ def checkinternet():
         res = True
     if res:
         print("\n\n\tIt seems That Your Internet Speed is Slow or You Are Using Proxies...")
-        print('\t\tTBomb Will Stop Now...\n\n')
+        print('\t\tFBomb Will Stop Now...\n\n')
         banner()
         exit()
 
