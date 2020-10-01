@@ -76,7 +76,7 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet TBomb
+figlet FUZZ
 echo -e "\e[1;34mCreated By \e[1;34m"
 toilet -f mono12 -F border FUZZ
 echo  " "
@@ -101,7 +101,7 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet FUZZ
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border FUZZ
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
